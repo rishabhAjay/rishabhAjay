@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rishabhAjay
-- 👀 I’m interested in Web Development, Ethical Hacking & IoT.
-- 🌱 I’m currently learning Data Science and Ethical Hacking
-- 📫 Want to reach out to me? Check my [page](https://portfolio-rishabhajay.vercel.app/) OR 
+- Hi, I’m @rishabhAjay
+- I’m interested in Web Development, Ethical Hacking & IoT.
+- I’m currently learning Data Science and Ethical Hacking
+- Want to reach out to me? Check my [page](https://portfolio-rishabhajay.vercel.app/) OR 
   View my [LinkedIn](https://www.linkedin.com/in/rishabhajay/)
 
 <!---
