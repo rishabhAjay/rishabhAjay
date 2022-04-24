@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhajay" alt="rishabhajay" /></a> </p>
 
-- 🌱 I’m currently learning **Active directory and web App Pentesting**
+- 🌱 I’m currently learning **Active directory and Web App Pentesting**
 
-- 👨‍💻 All of my projects are available at [portfolio-rishabhajay.vercel.app](portfolio-rishabhajay.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio-rishabhajay.vercel.app](https://portfolio-rishabhajay.vercel.app)
 
 - 📫 How to reach me **rishabhajay24@gmail.com**
 
@@ -25,6 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhajay&show_icons=true&locale=en&layout=compact" alt="rishabhajay" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhajay&show_icons=true&locale=en" alt="rishabhajay" /></p>
-
-
-
