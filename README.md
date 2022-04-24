@@ -5,11 +5,7 @@
 
 - 🌱 I’m currently learning **Active directory and Web App Pentesting**
 
-- 👨‍💻 All of my projects are available at [portfolio-rishabhajay.vercel.app](https://portfolio-rishabhajay.vercel.app)
-
-- 📫 How to reach me **rishabhajay24@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/11EixbfaT8jeB5Q9QSfcw0Em7KqJrZTH6/vi](https://drive.google.com/file/d/11EixbfaT8jeB5Q9QSfcw0Em7KqJrZTH6/vi)
+- 👨‍💻 All of my projects are available at <a href="https://portfolio-rishabhajay.vercel.app" target="_blank">My Portfolio Website</a>
 
 - ⚡ Hobbies **reading mythological and mystery novels, writing poems**
 
