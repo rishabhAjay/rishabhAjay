@@ -2,14 +2,11 @@
 
 🔭 I’m currently learning Active directory and Web App Pentesting<br>👨‍💻 All of my projects are available at My Portfolio Website<br>💬 Ask me about JavaScript related tech<br>⚡ My hobbies are reading mythological/mystery novels, writing poems
 
-  
----
 
 [![](https://visitcount.itsvg.in/api?id=rishabhAjay&icon=0&color=4)](https://visitcount.itsvg.in)
 
-  ---
 
-# 🌐 Socials:
+## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabhajay) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/@exceptionalhandlers3282)
 
@@ -31,7 +28,7 @@
 
   
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=rishabhAjay&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
