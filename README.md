@@ -3,7 +3,7 @@
 🔭 I’m currently learning Active directory and Web App Pentesting<br>👨‍💻 All of my projects are available on <a href = "https://portfolio-rishabhajay.vercel.app/" target = "_blank_">My Portfolio Website</a><br>💬 Ask me about JavaScript related tech<br>⚡ My hobbies are reading mythological/mystery novels, writing poems
 
 
-[![]([![](https://visitcount.itsvg.in/api?id=rishabhAjay&label=Profile%20Views&color=4&icon=5&pretty=false)](https://visitcount.itsvg.in))
+![](https://visitcount.itsvg.in/api?id=rishabhAjay&label=Profile%20Views&color=4&icon=5&pretty=false)
 
 ---
 
